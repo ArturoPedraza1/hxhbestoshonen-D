@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    border: 2px solid rebeccapurple; 
+}
+p{
+    font-size: larger;
+    border: 2px solid rebeccapurple;
+}
+.parrafoRojo{
+    font-size: 35px;
+    border: 1px solid red;
+}
+.parrafoVerde{
+    color: brown;
+    background-color: chartreuse;
+    border: 2px solid yellow;
+    padding-bottom: 120px;
+    
+}
